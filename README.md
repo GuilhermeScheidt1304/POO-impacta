@@ -1,2 +1,2 @@
 # POO-impacta
-Este projeto é uma aplicação desenvolvida para o curso de Programação Orientada a Objetos na Faculdade Impacta. 
+Este projeto é uma aplicação desenvolvida para o curso de Programação Orientada a Objetos na Faculdade Impacta. Ele demonstra conceitos fundamentais de POO através de [uma breve descrição da funcionalidade principal do projeto, por exemplo, "um sistema simples de gerenciamento de tarefas"]. O código está estruturado para ilustrar boas práticas de design orientado a objetos, como encapsulamento, herança e polimorfismo.
